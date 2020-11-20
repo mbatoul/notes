@@ -1,2 +1,6 @@
-# introduction_to_statistical_learning
-A record of my notes as I read An Introduction to Statistical Learning (Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)
+# Introduction to Statistical Learning
+
+Are included:
+1. PDF of notes
+2. Interesting figures
+3. Anki cards related to the book's material
