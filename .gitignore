@@ -1,2 +1,3 @@
 *.lyx*
 introduction_to_statistical_learning/all_figures/*
+from_python_to_numpy/.ipynb_checkpoints
